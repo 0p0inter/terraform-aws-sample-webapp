@@ -7,4 +7,3 @@
 .terraform/
 modules/
 
-terraform.tfvars
